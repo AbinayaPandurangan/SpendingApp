@@ -1,5 +1,5 @@
 import React from "react";
-import emptyCartImg from "./assests/empty-cart-image.jpg";
+import emptyCartImg from "../assests/empty-cart-image.jpg";
 
 function Cart(props) {
   return (
