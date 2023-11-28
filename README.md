@@ -1,3 +1,6 @@
+# About Spend-Money-App
+A mini-app where one can fix an initial budget and make purchases within the budget. I created the app using React library and Bootstrap. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
