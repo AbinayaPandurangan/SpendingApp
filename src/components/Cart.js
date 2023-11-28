@@ -1,4 +1,5 @@
 import React from "react";
+import emptyCartImg from "./assests/empty-cart-image.jpg";
 
 function Cart(props) {
   return (
@@ -14,7 +15,7 @@ function Cart(props) {
         {props.cartTotalQty == 0 ? (
           <img
             className="cartimage"
-            src="https://www.clickbazar.com/Images/empty-cart.gif"
+            src={emptyCartImg}
             alt="Your cart is Empty! Start Shopping!"
           />
         ) : (
